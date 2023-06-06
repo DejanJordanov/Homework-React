@@ -1,0 +1,16 @@
+.Numbers {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.Numbers ul {
+    list-style: none;
+    width: 30%;
+}
+
+.Numbers ul li {
+    font-size: 2rem;
+    font-weight: 600;
+    border: 1px solid black;
+}

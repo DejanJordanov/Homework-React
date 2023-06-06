@@ -1,0 +1,17 @@
+.Header {
+    text-align: center;
+}
+
+.Header h1 {
+    font-size: 4rem;
+}
+
+#even {
+    background-color: greenyellow;
+    padding: 5px;
+}
+
+#odd {
+    background-color: red;
+    padding: 5px;
+}
