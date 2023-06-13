@@ -1,0 +1,21 @@
+.Todo {
+    display: flex;
+    padding: 20px 10px;
+    align-items: center;
+    margin: 10px 5px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.Circle {
+    width: 25px;
+    height:25px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-right: 10px;
+}
+
+.ToDoAuthor {
+    position: absolute;
+    right: 15px;
+}
